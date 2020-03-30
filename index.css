@@ -10,7 +10,10 @@ h1 {
     margin-top: 50%;
 
 }
-video { 
+.text {
+    mix-blend-mode: screen;
+}
+#myVideo {
     position: absolute;
     top: 0;
     left: 0;
@@ -18,12 +21,6 @@ video {
     height: 100%;
     object-fit: cover;
     object-position: center;
-}
-h2 { 
-  text-align: center;
-  margin: 2rem 3rem 0;
-  mix-blend-mode: overlay;
-  color: #fff;
 }
 
 #llama {
