@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    height: 3000px;
 }
 
 h1 {
@@ -16,4 +17,10 @@ h1 {
     top:0;
     z-index: -1;
     object-fit: cover;
+}
+
+#llama {
+    height: 480px;
+    position: sticky;
+    top: 500px;
 }
