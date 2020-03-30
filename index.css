@@ -38,13 +38,15 @@ h1 {
 #pins {
     height: 17%;
     position: sticky;
-    top: 8px;
+    top: 37px;
     margin-right: 27%;
-    left: 800px;
+    left: 943px;
 }
 
 #rush {
-    height: 26%;
-    position: absolute;
+    height: 76%;
+    position: fixed;
     bottom: 0px;
+    right: 85%;
+    z-index: -2
 }
