@@ -16,11 +16,11 @@ h1 {
     right: 0;
     top:0;
     z-index: -1;
-    object-fit: cover;
 }
 
 #llama {
     height: 480px;
     position: sticky;
-    top: 500px;
+    right: 1200px;
+    top: 453px;
 }
