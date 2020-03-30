@@ -34,3 +34,17 @@ h1 {
     position: fixed;
     bottom: -21%;
 }
+
+#pins {
+    height: 17%;
+    position: sticky;
+    top: 8px;
+    margin-right: 27%;
+    left: 800px;
+}
+
+#rush {
+    height: 26%;
+    position: absolute;
+    bottom: 0px;
+}
