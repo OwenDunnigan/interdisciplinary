@@ -5,11 +5,17 @@ body {
     background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(196,208,88,1) 24%, rgba(83,166,111,1) 47%, rgba(77,159,197,1) 71%, rgba(252,70,70,1) 100%);
 }
 
-h1 {
+#title {
     z-index: 100; 
     margin-top: 50%;
+    color: aquamarine;
+}
+
+h2 {
+    margin-top: -75px;
 
 }
+ 
 
 #myVideo {
     width: 100vw;
