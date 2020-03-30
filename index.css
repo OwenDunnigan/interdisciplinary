@@ -17,7 +17,7 @@ h1 {
     position: absolute;
     right: 0;
     top:0;
-    z-index: -1;
+    z-index: -5;
 }
 
 #llama {
@@ -25,4 +25,10 @@ h1 {
     position: sticky;
     right: 1200px;
     top: 453px;
+}
+
+#watersplash {
+    z-index: -4;
+    right: 0px;
+    bottom: 0px;
 }
