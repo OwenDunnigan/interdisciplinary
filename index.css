@@ -39,6 +39,8 @@ h2 {
     height: 90%;
     position: fixed;
     bottom: -21%;
+    animation-name: waterfall;
+    animation-duration: 4s;
 }
 
 #pins {
@@ -58,4 +60,10 @@ h2 {
 }
 #llava {
     width: 95%;
+}
+
+@keyframes waterfall {
+    0% {bottom: -95%}
+    50% {bottom: -42%}
+    100% {bottom: -28%}
 }
