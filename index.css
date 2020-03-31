@@ -40,7 +40,9 @@ h2 {
     position: fixed;
     bottom: -21%;
     animation-name: waterfall;
-    animation-duration: 4s;
+    animation-duration: 6s;
+    animation-delay: .5s;
+    animation-timing-function: cubic-bezier(0.88, -0.64, 0, 2.68);
 }
 
 #pins {
