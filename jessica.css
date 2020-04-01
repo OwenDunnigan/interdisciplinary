@@ -28,3 +28,11 @@ body {
     background-color: mistyrose;
     margin: 0px;
 }
+.liltext {
+    text-align: center;
+}
+.video {
+    width: 90vw;
+    margin: auto 5vw;
+    height: 30%;
+}
