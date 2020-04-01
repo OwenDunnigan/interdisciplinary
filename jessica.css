@@ -41,8 +41,8 @@ body {
 .sarc{
     margin-bottom: 0px;
 }
-.heading img {
-    height: 4em;
-    position: fixed;
-
+.heading h1 img {
+    height: 3em;
+    position: absolute;
+    margin: auto;
 }
