@@ -35,4 +35,6 @@ body {
     width: 90vw;
     margin: auto 5vw;
     height: 30%;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
 }
