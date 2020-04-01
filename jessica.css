@@ -2,10 +2,23 @@ h1 {
     font-family: cursive;
     text-align: center;
 }
-h2 {
+h2,h3,h6 {
     text-align: center;
 
 }
-h3 {
-    text-align:center;
+.headshot img {
+    height: 50%;
+}
+h6 {
+    margin-top: 0%;
+}
+.boat img {
+    width: 40%;
+    padding-top: 2.5%;
+    padding-left: 1.75%;
+    padding-right: 1.75%;
+    scroll-padding-bottom: 2.5%;
+}
+.boat {
+    text-align: center;
 }
