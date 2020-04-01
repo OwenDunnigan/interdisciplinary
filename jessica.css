@@ -8,7 +8,7 @@ h2,h3,h6 {
 }
 .headshot img {
     width: 90vw;
-    text-align: center;
+    margin: auto 5vw;
 
 }
 h6 {
@@ -26,4 +26,5 @@ h6 {
 }
 body {
     background-color: mistyrose;
+    margin: 0px;
 }
