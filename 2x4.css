@@ -10,7 +10,7 @@ h1 {
 }
 img {
     position: fixed;
-    height: 37%;
+    width: 37vw;
     float: right;
 }
 .a {
