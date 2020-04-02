@@ -15,3 +15,10 @@ html {
     background: url('https://img1.picmix.com/output/stamp/normal/3/1/4/4/1024413_12d23.gif'), url('https://bestanimations.com/Animals/Insects/animated-bugs.gif'), center 115px fixed;
     position: absolute;
 }
+p {
+    text-align: center;
+}
+img {
+    position: absolute;
+    left: 8em;
+}
