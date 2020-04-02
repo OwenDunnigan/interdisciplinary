@@ -1,6 +1,39 @@
 body {
     background-color: paleturquoise;
+    margin: 0;
+    height: 100em;
 }
 h1 {
     text-align: center;
+    text-shadow: 2px 2px 3px firebrick;
+}
+img {
+    position: fixed;
+    height: 37%;
+    float: right;
+}
+.a {
+    top: 80px;
+    z-index: -1;
+    left: 12em;
+}
+.b {
+    bottom: 7em;
+    left: 27em;
+    position: sticky;
+    height: 11%;
+}
+.c {
+    left:24px;
+    top: 337px;
+}
+.wood {
+    font-size: 2.34em;;
+    text-align: center;
+    color: mistyrose;
+    text-shadow: 3px 3px 2px tan;
+
+}
+.lunch {
+    text-align: right;
 }
